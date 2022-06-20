@@ -8,3 +8,6 @@ git push
 
 git rm del_file.txt
 
+git commit -m "del file"
+
+git push
