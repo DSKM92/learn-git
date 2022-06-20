@@ -1,7 +1,0 @@
-echo hello > memo.txt
-
-git add memo.txt
-
-git commit -m "add txt file"
-
-git push
