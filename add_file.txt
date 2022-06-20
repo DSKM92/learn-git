@@ -1,0 +1,11 @@
+git config --global user.name username
+
+git config --global user.email usermail
+
+echo hello > hello.txt
+
+git add hello.txt
+
+git commit -m "add file"
+
+git push
